@@ -29,7 +29,7 @@ def main():
     print"\033[92m[INFO SC]"
     print" "
     print"\033[92mBahasa pemrograman: Python"
-    print" SC DDOS MATRE by DNS
+    print" SC DDOS MATRE by DNS"
     print"\033[91m=========================================="
     print" "
     print("\033[94mWaktu sekarang:") ,time
